@@ -2,7 +2,7 @@ name: AI News Buddy Daily Digest
 
 on:
   schedule:
-    - cron: '0 7 * * *'
+    - cron: '12 14 * * *'
   workflow_dispatch:
 
 jobs:
